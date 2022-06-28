@@ -1,0 +1,9 @@
+.button_component{
+    border: none;
+    outline: none;
+    padding: 10px 15px;
+    background: rgb(0, 0, 185);
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+}
